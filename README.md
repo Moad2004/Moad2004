@@ -8,6 +8,7 @@ Interested in AI, web development, and cybersecurity.
 - Databases: SQL basics
 - Tools: Kali Linux (learning), Git & GitHub
 - Interests: LegalTech, digital transformation, IoT, VR/AR
+- Security tools (learning): Nmap, Hydra, Kali Linux
 
 ## 🚀 Current project
 **Smart Civil Legal Services Platform**: my graduation project, an AI-powered
