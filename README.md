@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Moad 👋
 
-<!--
-**Moad2004/Moad2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Software Engineering student at Al-Margib University, Libya.
+Interested in AI, web development, and cybersecurity.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Web development: HTML, CSS, JavaScript, Python
+- Databases: SQL basics
+- Tools: Kali Linux (learning), Git & GitHub
+- Interests: LegalTech, digital transformation, IoT, VR/AR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current project
+**Smart Civil Legal Services Platform**: my graduation project, an AI-powered
+platform for contract analysis and legal consultations (Python, Next.js, PostgreSQL, RAG).
+
+## 🎓 Certificates
+- Introduction to Virtual, Augmented and Mixed Reality, Lancaster University (FutureLearn)
+- Introduction to Physical Computing, Lancaster University (FutureLearn)
+
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/moad-algrmadi-215957224
